@@ -59,7 +59,7 @@ gsutil mb gs://your-unique-bucket-name
 ### To make the bucket publicly accessible, run:
 gsutil iam ch allUsers:objectViewer gs://your-unique-bucket-name
 
-# Enable website hosting on the bucket by setting the index.html as the Main Page and 404.html as the Error Page:
+### Enable website hosting on the bucket by setting the index.html as the Main Page and 404.html as the Error Page:
 gsutil web set -m index.html -e 404.html gs://your-unique-bucket-name
 
 ### Step 2: Upload Your Files to Google Cloud Storage
