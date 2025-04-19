@@ -7,7 +7,7 @@ Welcome to my project! This is a simple static website that I’ve hosted on Goo
 ## 🌐 Live Website
 
 You can view the live website by clicking the link below:
-[Visit My Website](http://storage.googleapis.com/YOUR_BUCKET_NAME/index.html)
+[Visit My Website](http://storage.googleapis.com/disco-city-456918-n9/my-static-site/index.html)
 
 ---
 
